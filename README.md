@@ -5,8 +5,11 @@ andre rieu hard op de tenen trappen
 # woningcorporatie
 https://nl.wikipedia.org/wiki/Woningcorporatie
 
-klopboormachine
+# klopboormachine
 https://nl.wikipedia.org/wiki/Klopboormachine
 
 # woonkamer
 https://nl.wikipedia.org/wiki/Woonkamer
+
+# daalhof
+https://nl.wikipedia.org/wiki/Daalhof
